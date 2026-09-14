@@ -1,0 +1,20 @@
+﻿# Dependencies
+node_modules/
+venv/
+.env
+
+# Build outputs
+client/dist/
+dist/
+.vite/
+
+# Python cache & tests
+__pycache__/
+*.pyc
+.pytest_cache/
+community_connect.db
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
